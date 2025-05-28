@@ -21,7 +21,14 @@ Welcome to the **Electricity Bill Prediction Platform**! This project aims to pr
 
 To get this project running on your local machine, follow these steps:
 
-### 1. Clone the repository
+###  Create and activate a virtual environment (optional but recommended)
 ```bash
-git clone https://github.com/your-username/electricity-bill-prediction.git
-![Screenshot 2025-05-08 233014](https://github.com/user-attachments/assets/c1f64e66-c7fc-4e7d-9b21-8128fd0ac32c)
+python -m venv venv
+# For Windows
+venv\Scripts\activate
+# For macOS/Linux
+source venv/bin/activate
+# Install dependencies
+pip install -r requirements.txt
+# Run the Streamlit app
+streamlit run app.py
