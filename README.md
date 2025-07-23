@@ -3,7 +3,7 @@
 Welcome to the **Electricity Bill Prediction Platform**! This project aims to predict electricity bills based on various factors such as consumption, demographic information, and environmental variables using machine learning models.
 
 ## Screenshots
-![Screenshot 1](https://github.com/Raghavchawla13/AIML-Project/blob/main/Screenshot%202025-05-08%20230544.png)
+![Screenshot 1](https://github.com/Raghavchawla13/AIML-Project/blob/main/ELectricitybill1.png)
 ![Screenshot 2](https://github.com/Raghavchawla13/AIML-Project/blob/main/Screenshot%202025-05-08%20230738.png)
 ![Screenshot 3](https://github.com/Raghavchawla13/AIML-Project/blob/main/Screenshot%202025-05-08%20230850.png)
 ![Screenshot 4](https://github.com/Raghavchawla13/AIML-Project/blob/main/Screenshot%202025-05-08%20231018.png)
