@@ -2,6 +2,11 @@
 
 Welcome to the **Electricity Bill Prediction Platform**! This project aims to predict electricity bills based on various factors such as consumption, demographic information, and environmental variables using machine learning models.
 
+## Screenshots
+![Screenshot 1](Screenshot 2025-05-08 230544.png)
+
+
+
 ## 🚀 Features
 
 - **Upload Dataset**: Upload your dataset in CSV format and choose the target variable for prediction.
